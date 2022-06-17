@@ -2,7 +2,7 @@
 
 #### I'm a Python Software Engineer Student at SoftUni
 
-![I'm a Python Software Engineer Student at SoftUni](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a Python Software Engineer Student at SoftUni]
 
 I'm student in SoftUni. Currently learning Python.
 
