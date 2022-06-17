@@ -1,14 +1,9 @@
 ### Hi there 👋, my name is Nikolay Nikolov
 
-#### I'm a Python Software Engineer Student at SoftUni
-
-![I'm a Python Software Engineer Student at SoftUni]
-
-I'm student in SoftUni. Currently learning Python.
+#### I'm a Python Software Engineer Student at SoftUni. Currently learning Python.
 
 Skills: Python / JS
 
-- 🌱 I’m currently learning Python 
 - 📫 How to reach me: nnikolov.nikolay@gmail.com 
 
 
