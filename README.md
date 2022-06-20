@@ -9,6 +9,4 @@ Skills: Python / JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikolay-Nikolov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolay-nikolov-8b615b240//)  
 
-![GitHub stats](https://github.com/Nikolov-Nikolay)  
-
-
+![GitHub stats](https://github.com/Nikolov-Nikolay) 
